@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Mohit Pandey"
-  avatar           : "profile_mohit.jpg"
-  bio              : "PhD Candidate testing "
+  avatar           : "/images/profile_mohit.jpg"
+  bio              : "PhD Candidate"
   location         : "New York, NY"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=oUhThscAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
